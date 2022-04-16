@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #704D22;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+header, footer {
+    background-color: rgb(210, 183, 150);
+    height: 100px;
+}
+
+main {
+    background-color: #D99309;
+    margin: auto;
+    width: 800px;
+}
+
+ol li {
+    color: white;
+}
+
+ol {
+    background-color: rgb(69, 40, 2)
+}
+
+header img {
+    border-radius: 100%;
+    height: 100px;
+    float: left;
+}
+
+.image img {
+    width: 150px;
+    margin: 20px;
+}
